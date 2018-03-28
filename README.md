@@ -1,8 +1,8 @@
 pdo-plus
 ===================
 
-A  PHP MySQL PDO class 
-clone from https://github.com/lincanbin/PHP-PDO-MySQL-Class.added getInstance and sth more;
+A  PHP MySQL PDO class 。
+clone from https://github.com/lincanbin/PHP-PDO-MySQL-Class 。添加了单例模式并做了一些其他的小改动;
 Initialize
 ------------
 ```php
