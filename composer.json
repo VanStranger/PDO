@@ -1,0 +1,25 @@
+{
+    "name": "VanStranger/pdo-plus",
+    "keywords": [
+        "pdo",
+        "mysql",
+        "database"
+    ],
+    "description": "A PHP MySQL PDO class.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "van",
+            "email": "fanjunjiei@126.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.6"
+    },
+    "autoload": {
+        "files": [
+            "src/PDO.Log.class.php",
+            "src/PDO.class.php"
+        ]
+    }
+}
